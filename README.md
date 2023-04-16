@@ -2,9 +2,10 @@
 Pokémon Character Generator App using python
 
 
-### install requests with `pip install requests` command
+### To install requests
+install requests with `pip install requests` command
 
-
+### Results
 Customize it as you like.
 
 
